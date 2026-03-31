@@ -1,6 +1,14 @@
-## Heart-Disease-Statistics-Report
+### Heart-Disease-Statistics-Report
 
-# Variables:
+## Contents
+This folder includes:
+- **main code**: `heart_disease_analysis_code.R`
+- **README File**: `README.md` (this file)
+- **Statistics Report**: `Heart Disease Statistics Report.pdf`
+- **Data**: `heart-disease-dsa1101.csv`
+
+
+## Variables:
 <img width="570" height="474" alt="image" src="https://github.com/user-attachments/assets/d9a03d64-b186-4fe2-96a9-8dc1902695a3" />
 
 

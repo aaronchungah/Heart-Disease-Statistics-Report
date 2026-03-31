@@ -15,3 +15,5 @@ This folder includes:
 This project applies statistical and machine learning methods to predict heart disease using clinical and demographic data. The analysis includes exploratory data analysis (EDA), model development (KNN, Decision Tree, Logistic Regression, Naive Bayes), hyperparameter tuning using cross-validation, and model evaluation using metrics such as TPR, precision, ROC curves, and AUC.
 
 Special emphasis is placed on minimising false negatives and maximising true positive rate (sensitivity), reflecting the importance of accurate disease detection in healthcare applications.
+
+#README

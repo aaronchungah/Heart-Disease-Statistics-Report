@@ -2,7 +2,7 @@
 
 ## Contents
 This folder includes:
-- **main code**: `heart_disease_analysis_code.R`
+- **Main code**: `heart_disease_analysis_code.R`
 - **README File**: `README.md` (this file)
 - **Statistics Report**: `Heart Disease Statistics Report.pdf`
 - **Data**: `heart-disease-dsa1101.csv`
